@@ -1,5 +1,5 @@
 <?php
-//Testing Git connection right now 
+
 // 1. Include the dynamic sidebar menu at the very top
 include('menu.php'); 
 ?>
